@@ -17,3 +17,7 @@ This project is an Excel-based MIS dashboard analyzing SIP and Lumpsum investmen
 ## Insights:
 - North region has highest investment contribution
 - Lumpsum investments show higher volatility compared to SIP
+
+  ## 📷 Dashboard Preview
+    ![Dashboard Screenshot](dashboard.png)
+
