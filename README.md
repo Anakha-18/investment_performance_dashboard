@@ -25,7 +25,7 @@ This project is an Excel-based MIS dashboard designed to analyze SIP and Lumpsum
 * Monthly trends help identify peak investment periods
 
 ## 📷 Dashboard Preview
-    ![Dashboard Screenshot](dashboard.png)
+[Dashboard Screenshot](dashboard.png)
 
 ## 📂 Files Included
 
